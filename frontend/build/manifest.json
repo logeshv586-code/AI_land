@@ -1,0 +1,19 @@
+{
+  "short_name": "Land Automation",
+  "name": "AUGMENT Agent Land Area Automation",
+  "description": "AI-powered real estate analysis and automation platform",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1976d2",
+  "background_color": "#ffffff",
+  "categories": ["business", "productivity", "finance"],
+  "scope": "/",
+  "orientation": "portrait-primary"
+}
